@@ -50,3 +50,4 @@ class Lexica
         echo json_encode(['nextCursor' => $responseData['nextCursor'], 'prompts' => $output]);
     }
 }
+//that it is important not to delete any part of the code, as it may cause the class to not work properly.
