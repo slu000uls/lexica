@@ -1,5 +1,5 @@
 <?php
-
+//in here we have a class and some curl for request to the lexica and get the data
 class Lexica
 {
     private $query;
